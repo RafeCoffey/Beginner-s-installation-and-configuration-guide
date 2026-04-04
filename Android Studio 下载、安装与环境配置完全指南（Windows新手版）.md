@@ -1,15 +1,3 @@
-# 目录
-1. [准备工作：系统要求与下载前须知](sslocal://flow/file_open?url=%23%E4%B8%80%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82%E4%B8%8E%E4%B8%8B%E8%BD%BD%E5%89%8D%E9%A1%BB%E7%9F%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-2. [下载 Android Studio（官方渠道）](sslocal://flow/file_open?url=%23%E4%BA%8C%E4%B8%8B%E8%BD%BD-android-studio%E5%AE%98%E6%96%B9%E6%B8%A0%E9%81%93&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-3. [Windows 系统安装步骤](sslocal://flow/file_open?url=%23%E4%B8%89windows-%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4%E9%87%8D%E7%82%B9%E9%81%BF%E5%BC%80c%E7%9B%98%E5%92%8C%E4%B8%AD%E6%96%87%E8%B7%AF%E5%BE%84&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-4. [首次启动与 SDK 配置](sslocal://flow/file_open?url=%23%E5%9B%9B%E9%A6%96%E6%AC%A1%E5%90%AF%E5%8A%A8%E4%B8%8E-sdk-%E9%85%8D%E7%BD%AE%E6%A0%B8%E5%BF%83%E6%AD%A5%E9%AA%A4%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-5. [配置 Command Line Tools 与环境变量](sslocal://flow/file_open?url=%23%E4%BA%94%E9%85%8D%E7%BD%AE-command-line-tools-%E4%B8%8E%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%A7%A3%E5%86%B3%E4%BD%A0%E4%B9%8B%E5%89%8D%E9%81%87%E5%88%B0%E7%9A%84%E6%8A%A5%E9%94%99%E9%87%8D%E7%82%B9%E4%BC%98%E5%8C%96&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-6. [验证环境配置](sslocal://flow/file_open?url=%23%E5%85%AD%E9%AA%8C%E8%AF%81%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E7%A1%AE%E4%BF%9D%E6%89%80%E6%9C%89%E8%AE%BE%E7%BD%AE%E9%83%BD%E6%88%90%E5%8A%9F%E5%BF%85%E5%81%9A&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-7. [常见问题与解决方案](sslocal://flow/file_open?url=%23%E4%B8%83%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%96%B0%E6%89%8B%E5%BF%85%E7%9C%8B%E8%A7%A3%E5%86%B3%E4%BD%A0%E9%81%87%E5%88%B0%E7%9A%84%E6%89%80%E6%9C%89%E9%97%AE%E9%A2%98&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-8. [总结与下一步](sslocal://flow/file_open?url=%23%E5%85%AB%E6%80%BB%E7%BB%93%E4%B8%8E%E4%B8%8B%E4%B8%80%E6%AD%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-
----
-
 # Android Studio 下载、安装与环境配置完全指南（Windows新手版）
 
 本文提供Windows系统超详细步骤，从下载到环境验证全流程覆盖，结合新手常见问题优化，确保一次成功配置Android Studio、Android SDK和Command Line Tools，避开所有踩坑点。
